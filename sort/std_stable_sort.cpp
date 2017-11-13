@@ -1,8 +1,6 @@
 #include <algorithm>
-#include <functional>
 #include <vector>
 #include <iostream>
-#include <iterator>
 
 #include "utility.hpp"
  

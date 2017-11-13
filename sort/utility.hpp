@@ -2,6 +2,7 @@
 
 #include <vector>
 #include <ostream>
+#include <iterator>
 
 template<typename T>
 std::vector<T> parse_args(int argc, char* argv[]) {
